@@ -1,0 +1,15 @@
+{
+  "name": "Recorder",
+  "version": "1.0.0",
+  "description": "Recorder App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "NODE_ENV=development electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^12.0.5"
+  }
+}
